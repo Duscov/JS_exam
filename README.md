@@ -19,13 +19,13 @@ The application asks the student for their name and group, then presents a serie
 Here are some examples of the app in use:
 
 1. **Login Screen:**
-   ![Login Screen](./screenshots/Registration.png)
+   ![Login Screen](./src/screenshots/Registration.png)
 
 2. **Example Question:**
-   ![Question Screen](./screenshots/Question.png)
+   ![Question Screen](./src/screenshots/Question.png)
 
 3. **Results Screen:**
-   ![Results Screen](./screenshots/Result.png)
+   ![Results Screen](./src/screenshots/Result.png)
 
 ## How to Use
 
